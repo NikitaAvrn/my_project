@@ -5,6 +5,6 @@ ind = 0
 sum = 0
 
 while ind <= 9:
-        sum += ind
-        print(sum)
-        ind += 1
+    sum += ind
+    print(sum, end = ' ')
+    ind += 1
