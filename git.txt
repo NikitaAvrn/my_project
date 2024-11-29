@@ -1,0 +1,3 @@
+git branch --force master f54be66 - откатать ветку "master" до определенного состояния
+git branch -D 'tshoot' - удалить ветку 'tshoot'
+git branch -m main - переименовать в main
